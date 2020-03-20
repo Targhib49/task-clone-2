@@ -49,4 +49,71 @@ nav {
 .prod-det img {
   height: 400px;
 }
+
+.wedding-bouquet {
+  background-color: pink;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.bouquet-det {
+  background-color: white;
+  margin: 10px;
+}
+
+.bouquet-det img {
+  height: 200px;
+}
+
+.second-jumbotron {
+  padding: 0;
+  margin: 0;
+}
+
+.jum-det {
+  padding: 0;
+}
+
+.jum-det img {
+  height: 550px;
+}
+
+.newsletter {
+  height: 250px;
+  background-color: rgba(218, 206, 206, 0.664);
+  margin: 0;
+  padding-top: 40px;
+}
+
+.newsletter h3 {
+  text-align: center;
+}
+
+.newsletter p {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+.upper-footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.soc-med {
+  background-color: black;
+}
+
+.lower-footer {
+  background-color: black;
+}
+
+.footer-row {
+  height: 50px;
+  color: white;
+  text-align: center;
+}
 /*# sourceMappingURL=index.css.map */
